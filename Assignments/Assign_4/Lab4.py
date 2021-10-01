@@ -93,8 +93,6 @@ if __name__ == "__main__":
             print()
 
             if bank == 0:
-                
-                 
                 print("You lost all", bank, "in", matches, "spins")
                 print("The most chips you had was", payout)
                 playing = play_again()
